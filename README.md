@@ -39,7 +39,7 @@
 
 ### Running Tests
 
-To run the tests, use the following command:
+To run the tests, ensure the database is running, then use the following command:
 
 ```bash
 yarn test
