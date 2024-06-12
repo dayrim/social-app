@@ -44,3 +44,25 @@ To run the tests, use the following command:
 ```bash
 yarn test
 ```
+
+### Development
+
+To run the application in development mode:
+
+```bash
+yarn dev
+```
+
+### Build
+
+To build the application for production:
+
+```bash
+yarn build
+```
+
+To start the built application:
+
+```bash
+yarn start
+```
